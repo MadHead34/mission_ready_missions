@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Mission Ready Mission 0 Task
+
+Created a simple React Wireframe with some images and also some texts. Not fully polished but can be developed further when I have the spare time for the next update to create a better website. You cloned the repository and then in the terminal, you npm start and the website will appear. The languages I used are React, Javascript and CSS. It can also be viewed in mobile phone frame but there is a slight movement of my home image so will figure that one out to fix that issues.
