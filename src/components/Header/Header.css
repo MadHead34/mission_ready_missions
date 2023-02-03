@@ -1,0 +1,30 @@
+header{
+    width: 100vw;
+    height: 20%;
+    background-color: aqua;
+}
+
+.header-container{
+    width: 80vw;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.login-logo{
+    height: 30px;
+    width: 30px;
+    float: right;
+}
+.home-logo{
+    height: 30px;
+    width: 30px;
+    float: left;
+}

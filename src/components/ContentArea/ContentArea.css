@@ -1,0 +1,12 @@
+#content-area{
+    width: 100vw;
+    height: 50rem;
+    margin: auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.Jole{
+    font-weight: bold;
+    text-align: center;
+}
